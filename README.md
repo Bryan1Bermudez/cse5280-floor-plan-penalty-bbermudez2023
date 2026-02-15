@@ -6,7 +6,7 @@
 1. How does wall thickness or influence radius affect the resulting path?
 
 R affects the path alot, with log it affects how close the point gets to the wall with an r too high causing it to fly off the map entierly
-# with quad and exp it more or less affects the range of the walls influence with higher increasing the range of the walls influence but not nesscairly the strength
+ with quad and exp it more or less affects the range of the walls influence with higher increasing the range of the walls influence but not nesscairly the strength
 
 2. What happens near corners or narrow corridors?
 
